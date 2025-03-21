@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DDXUHQtEOpbQ1jWbkVI/wsxaNWkZ2ayazgLSxoRw1Tc=",
+  "Source": "CustomBackend",
+  "BasePath": "_content/CustomBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
